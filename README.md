@@ -36,10 +36,10 @@ You should create one R script called run_analysis.R that does the following.
   
 # Script
 
-# Data Science Specilization 
-# 3. Getting and Cleaning Data Project  Coursera
-# Author: Arturo Vera
-# 2020/05/24
+## Data Science Specilization 
+## 3. Getting and Cleaning Data Project  Coursera
+## Author: Arturo Vera
+## 2020/05/24
 
 library(data.table)
 library(reshape2)
